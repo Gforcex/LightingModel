@@ -1,0 +1,33 @@
+/*
+Email: Gforcex@163.com
+Github: https://github.com/Gforcex
+*/
+
+## BRDFs
+
+Minnaert (1941)
+Hapke/Lommel-Seeliger (1963)
+Torrance-Sparrow (1967)
+Phong (1975)
+Blinn-Phong (1977)
+Cook-Torrance (1982)
+Kajiya-Kay (1985)
+Strauss (1990)
+Poulin-Fournier (1990)
+He-Torrance-Sillion-Greenberg (1991)
+Ward (1992)
+Oren-Nayar (1994)
+Schlick (1994)
+Modified-Phong (Lafortune 1994)
+Lafortune (1997)
+Neumann-Neumann (1999)
+Albedo pump-up (Neumann-Neumann 1999)
+Ashikhmin-Shirley (2000)
+Kelemen (2001)
+Halfway Vector Disk (Edwards 2006)
+Distribution-based BRDF (Ashikhmin 2007)
+GGX (Walter 2007)
+Kurt (2010)
+
+
+
